@@ -1,0 +1,12 @@
+name: CollatzExplorer
+title: CollatzExplorer
+username:
+account: mbarrows
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1484327
+bundleId: 2595737
+url: https://mbarrows.shinyapps.io/CollatzExplorer/
+when: 1574021766.89669
+asMultiple: FALSE
+asStatic: FALSE
